@@ -1,0 +1,16 @@
+C:\Users\diogo\source\repos\teamMixer\teamMixer\bin\Debug\teamMixer.exe.config
+C:\Users\diogo\source\repos\teamMixer\teamMixer\bin\Debug\teamMixer.exe
+C:\Users\diogo\source\repos\teamMixer\teamMixer\bin\Debug\teamMixer.pdb
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.csprojAssemblyReference.cache
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.Form1.resources
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.Properties.Resources.resources
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.csproj.GenerateResource.cache
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.csproj.CoreCompileInputs.cache
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.exe
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.pdb
+C:\Users\diogo\source\repos\teamMixer\teamMixer\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.csproj.CopyComplete
+C:\Users\diogo\source\repos\teamMixer\teamMixer\bin\Debug\teamMixer.exe.manifest
+C:\Users\diogo\source\repos\teamMixer\teamMixer\bin\Debug\teamMixer.application
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.exe.manifest
+C:\Users\diogo\source\repos\teamMixer\teamMixer\obj\Debug\teamMixer.application
