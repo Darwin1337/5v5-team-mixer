@@ -13,5 +13,3 @@ Made it because my group of friends would always have trouble picking the teams 
 ## Screenshots
 
 ![Application UI](https://i.imgur.com/yk6l1qO.png)
-
-Pardon my spaghetti code for I did not know how to code (and still don't).  
